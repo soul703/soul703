@@ -8,6 +8,6 @@
 
 ---
 
-📫 Reach me at: [soul703@gmail.com](mailto:soul703@gmail.com)
+📫 Reach me at: [buimanhsang@gmail.com](mailto:buimanhsang@gmail.com)
 
 ⚡ Fun fact: I enjoy turning coffee ☕ into backend services 😄
