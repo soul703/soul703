@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hello! I'm a Java Backend Developer
 
-<!--
-**soul703/soul703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I build scalable RESTful APIs using **Java & Spring Boot**
+- ⚙️ Proficient in **Spring Security**, **JPA**, and **MySQL/PostgreSQL**
+- 📦 Love writing clean code, following SOLID & best practices
+- 🚀 Familiar with **Git**, **Maven**, **CI/CD**, and cloud deployment
+- 🌱 Currently improving my knowledge in **Microservices** and **Docker**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: [soul703@gmail.com](mailto:soul703@gmail.com)
+
+⚡ Fun fact: I enjoy turning coffee ☕ into backend services 😄
