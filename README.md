@@ -1,13 +1,48 @@
-### 👋 Hello! I'm a Java Backend Developer
+<h1 align="center">Hi 👋, I'm a Java Backend Developer</h1>
 
-- 💻 I build scalable RESTful APIs using **Java & Spring Boot**
-- ⚙️ Proficient in **Spring Security**, **JPA**, and **MySQL/PostgreSQL**
-- 📦 Love writing clean code, following SOLID & best practices
-- 🚀 Familiar with **Git**, **Maven**, **CI/CD**, and cloud deployment
-- 🌱 Currently improving my knowledge in **Microservices** and **Docker**
+<p align="center">
+  ☕ Passionate about building robust and scalable server-side applications with <b>Java</b> and <b>Spring Boot</b>.
+</p>
 
 ---
 
-📫 Reach me at: [buimanhsang@gmail.com](mailto:buimanhsang@gmail.com)
+### 🔧 Tech Stack & Tools
 
-⚡ Fun fact: I enjoy turning coffee ☕ into backend services 😄
+- 💻 Backend: `Java`, `Spring Boot`, `Spring MVC`, `Spring Security`, `REST API`
+- 🗄️ Database: `MySQL`, `PostgreSQL`, `JPA / Hibernate`, `JDBC`
+- 🔐 Security: `JWT`, `OAuth2`, `Spring Security`, `BCrypt`
+- 🧪 Testing: `JUnit`, `Mockito`
+- ☁️ DevOps: `Git`, `GitHub Actions`, `Docker`, `CI/CD`
+- 📦 Build tools: `Maven`, `Gradle`
+- 📁 Others: `Postman`, `Swagger`, `Lombok`, `MapStruct`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soul703&show_icons=true&theme=radical" alt="soul703 stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soul703&theme=radical" alt="streak" width="48%"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- 🔭 Spring Boot Microservices
+- 🛡️ OAuth2, Keycloak
+- 🐳 Docker & Kubernetes
+- ☁️ AWS Basics
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [23730211@ms.uit.edu.vn](mailto:23730211@ms.uit.edu.vn)
+
+
+---
+
+> _"Clean code always wins. Writing less is more."_ ✍️  
+> &nbsp;— *A Java Dev who believes in simplicity and consistency.*
+
